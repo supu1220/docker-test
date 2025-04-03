@@ -8,6 +8,6 @@ public class HimansuController {
 
 	@GetMapping("/message")
 	public String getmessage() {
-		return "I LOVE YOU";
+		return "Duddu I LOVE YOU so so so so much, uummaahhhhhhaaa";
 	}
 }
